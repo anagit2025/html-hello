@@ -1,0 +1,39 @@
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    width: 220px;
+    height: 40px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.post  {
+    width: 200px;
+    height: 350px;
+  margin: auto
+}
+
+.post_img {
+    height: 206px;
+    
+}
+
+    
+
+img {
+    width: 270px;
+    height: 205px;
+    
+}
+
+.post-footer {
+    width: 320px;
+    text-align: center;
+}
